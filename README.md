@@ -51,6 +51,7 @@ Visual studio code
 🔧 Uso del documento
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Descarge el word y abralo, adentro encontrara todas las pregtunas y respuestas, si quiere tendra imagenes del codigo en las preguntas que requieran de este para recrearlo en visual studio o el lector de python que le agrade y asi probarlo de primera mano
+
 <img width="611" height="484" alt="image" src="https://github.com/user-attachments/assets/4b2caa40-f2f6-4e58-ac6c-10b253627797" />
 
 📄 Licencia
