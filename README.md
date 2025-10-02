@@ -11,6 +11,8 @@ El repositorio contiene un word como se puede ver, aqui estan todas las pregunta
 El trabajo trae un total de 20 preguntas con respuestas (a excpecion de las preguntas 17 y 19 que solo contienen preguntas) si se quieren ver las preguntas y respuestas a continuacion se listaran todas, por parte de las preguntas no incluyendo el codigo de la pregunta
 
 1. ¿Cuáles de los siguientes nombres existen como atributos accesibles directamente desde a?
+
+
 Respuesta:
 De las opciones dadas, todas menos la opción C son accesibles desde a, a.x no tiene ningún tipo de seguridad, a._y se cuenta como protegida, aunque esto no hace que sea imposible acceder a su información y x._A__z es la opción de name mangling con la cual se puede acceder sin problema a la información de __z que normalmente daría error por estar como privada
 2. ¿Qué imprime?
